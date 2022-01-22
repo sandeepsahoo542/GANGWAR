@@ -1,4 +1,4 @@
-
+#include"man_structure.cpp"
 /*
   structure for the man 
 */
@@ -14,7 +14,5 @@
 */
 
 int main(){
-/*
-  Make the game loop here 
-*/
+ man_drawing();
 }
